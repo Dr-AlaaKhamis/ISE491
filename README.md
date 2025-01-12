@@ -5,7 +5,8 @@ Operations Research (OR), also known as decision or management science, focuses 
 
 ## Course Topics
 
-1. Introduction to Search and Optimization
+1. [Introduction to Search and Optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/Module_1)
+    * Python refresher
     * Basic ingredients of optimization problems
     * Classifying optimization problems
     * Classifying search and optimization algorithms
