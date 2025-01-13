@@ -6,7 +6,7 @@ Operations Research (OR), also known as decision or management science, focuses 
 ## Course Topics
 
 1. [Introduction to Search and Optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/Module_1)
-    * Python refresher
+    * Python Refresher
     * Basic ingredients of optimization problems
     * Classifying optimization problems
     * Classifying search and optimization algorithms
@@ -15,10 +15,10 @@ Operations Research (OR), also known as decision or management science, focuses 
 2. Graph Search Algorithms
     * Blind search
     * Informed search algorithms
-3. Trajectory-based optimization techniques
+3. Trajectory-based Optimization Techniques
     * Simulated annealing
     * Tabu search
-4. Population-based optimization techniques
+4. Population-based Optimization Techniques
     * Genetic algorithms
     * Particle swarm optimization
     * Ant colony optimization
