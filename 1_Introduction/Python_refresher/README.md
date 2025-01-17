@@ -3,6 +3,6 @@
 
 | Example  | Notebook  |
 |---|---|
-| Simple Python program in script format  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://github.com/Dr-AlaaKhamis/ISE491/blob/main/1_Introduction/Python_refresher/Simple_Python_Program_Script.py)   |
+| Simple Python program in script format  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://github.com/Dr-AlaaKhamis/ISE491/blob/main/1_Introduction/Python_refresher/Simple_Python_Program_Script.py)   |
 | Simple Python program in Jupyter Notebook format  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Dr-AlaaKhamis/ISE491/blob/main/1_Introduction/Python_refresher/Simple_Python_Program_Jupyter_notebook.ipynb)  |
 | Python Crash Course  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Dr-AlaaKhamis/ISE491/blob/main/1_Introduction/Python_refresher/Python_Refresher.ipynb)  |
