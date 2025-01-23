@@ -1,5 +1,4 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Dr-AlaaKhamis/ISE491/blob/main/LICENSE)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/NOTEBOOK_NAME.ipynb)
 ![Last Commit](https://img.shields.io/github/last-commit/Dr-AlaaKhamis/ISE491)
 ![Repo Size](https://img.shields.io/github/repo-size/Dr-AlaaKhamis/ISE491)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
