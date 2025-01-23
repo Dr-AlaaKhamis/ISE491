@@ -3,7 +3,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Dr-AlaaKhamis/ISE491)
 ![Repo Size](https://img.shields.io/github/repo-size/Dr-AlaaKhamis/ISE491)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![Downloads](https://img.shields.io/github/downloads/Dr-AlaaKhamis/ISE491/total)
 ![GitHub Stars](https://img.shields.io/github/stars/Dr-AlaaKhamis/ISE491?style=social)
 
 
