@@ -1,10 +1,11 @@
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/USERNAME/REPO_NAME/blob/main/LICENSE)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/NOTEBOOK_NAME.ipynb)
-![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO_NAME)
-![Repo Size](https://img.shields.io/github/repo-size/USERNAME/REPO_NAME)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Dr-AlaaKhamis/ISE491/blob/main/LICENSE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/NOTEBOOK_NAME.ipynb)
+![Last Commit](https://img.shields.io/github/last-commit/Dr-AlaaKhamis/ISE491)
+![Repo Size](https://img.shields.io/github/repo-size/Dr-AlaaKhamis/ISE491)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO_NAME/total)
-![GitHub Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=social)
+![Downloads](https://img.shields.io/github/downloads/Dr-AlaaKhamis/ISE491/total)
+![GitHub Stars](https://img.shields.io/github/stars/Dr-AlaaKhamis/ISE491?style=social)
+
 
 
 # ISE 491 Special Topics in Operations Research - Optimization Algorithms
