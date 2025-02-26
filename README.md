@@ -23,7 +23,7 @@ Operations Research (OR), also known as decision or management science, focuses 
     * [Simulated annealing](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/3_Trajectory_algorithms/SA)
     * [Tabu search](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/3_Trajectory_algorithms/TS)
 4. Population-based Optimization Techniques
-    * Genetic algorithms
+    * [Genetic algorithms](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/3_Trajectory_algorithms/4_EC_algorithms)
     * Particle swarm optimization
     * Ant colony optimization
 
