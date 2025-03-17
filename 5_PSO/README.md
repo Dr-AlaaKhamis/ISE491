@@ -1,5 +1,5 @@
 
-#  Swarm Intelligence Algorithms
+#  Particle Swarm Optimization (PSO)
 
 | Example  | Notebook  |
 |---|---|
