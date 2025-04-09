@@ -1,5 +1,5 @@
 
-#  Chapter 10. Other Swarm intelligence algorithms to explore
+#  ACO and ABC
 
 | Example  | Notebook  |
 |---|---|
