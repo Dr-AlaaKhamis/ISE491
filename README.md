@@ -9,7 +9,7 @@
 # ISE 491 Special Topics in Operations Research - Optimization Algorithms
 
 ## 📘 Course Description
-Operations Research (OR), also known as decision or management science, focuses on solving complex problems involving system design, resource allocation, and strategic decision-making. OR employs advanced optimization algorithms to determine optimal or near-optimal solutions for such challenges. This course covers a wide range of optimum seeking algorithms, also known as optimization algorithms, that are generally studied as a part of operations research. Topics covered include graph search algorithms, trajectory-based optimization algorithms and population-based algorithms. The course will also provide a wealth of examples and in-depth case studies that span a broad spectrum of design, planning, and control problems.  Examples, include but are not limited to, routing problems, assembly line balancing, optimal pricing, composite laminate design, controller parameter tuning, political districting, product manufacturing planning, neural network training, facility allocation, doctor scheduling, supply/demand optimization and airline flight operation optimization. 
+Operations Research (OR), also known as decision or management science, focuses on solving complex problems involving system design, resource allocation, and strategic decision-making. OR employs advanced optimization algorithms to determine optimal or near-optimal solutions for such challenges. This course covers a wide range of optimum seeking algorithms, also known as optimization algorithms, that are generally studied as a part of operations research. Topics covered include graph search algorithms, trajectory-based optimization algorithms, population-based algorithms, and machine learning methods. The course will also provide a wealth of examples and in-depth case studies that span a broad spectrum of design, planning, and control problems.  Examples, include but are not limited to, routing problems, assembly line balancing, optimal pricing, composite laminate design, controller parameter tuning, political districting, product manufacturing planning, neural network training, facility allocation, doctor scheduling, supply/demand optimization and airline flight operation optimization. 
 
 ## 📚 Course Topics
 
@@ -26,6 +26,10 @@ Operations Research (OR), also known as decision or management science, focuses 
     * [Genetic algorithms](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/4_EC_algorithms)
     * [Particle swarm optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/5_PSO)
     * [Ant colony optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/6_ACO)
+5. Machine Learning Methods
+    * Unsupervised learning
+    * Supervised learning
+    * Reinforcement learning
 
 ## 📖 Textbook
 
