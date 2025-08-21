@@ -6,30 +6,34 @@
 
 
 
-# ISE 491 Special Topics in Operations Research - Optimization Algorithms
+# 🚀 ISE 491: Special Topics in Operations Research – Optimization Algorithms
 
 ## 📘 Course Description
 Operations Research (OR), also known as decision or management science, focuses on solving complex problems involving system design, resource allocation, and strategic decision-making. OR employs advanced optimization algorithms to determine optimal or near-optimal solutions for such challenges. This course covers a wide range of optimum seeking algorithms, also known as optimization algorithms, that are generally studied as a part of operations research. Topics covered include graph search algorithms, trajectory-based optimization algorithms, population-based algorithms, and machine learning methods. The course will also provide a wealth of examples and in-depth case studies that span a broad spectrum of design, planning, and control problems.  Examples, include but are not limited to, routing problems, assembly line balancing, optimal pricing, composite laminate design, controller parameter tuning, political districting, product manufacturing planning, neural network training, facility allocation, doctor scheduling, supply/demand optimization and airline flight operation optimization. 
 
 ## 📚 Course Topics
 
-1. Introduction
-    * [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Python_refresher)
-    * [Introduction to optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Intro_optimization)
-2. Graph Search Algorithms
-    * [Blind search](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/2_Graph_search/Blind_search)
-    * [Informed search algorithms](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/2_Graph_search/Informed_search)
-3. Trajectory-based Optimization Techniques
-    * [Simulated annealing](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/3_Trajectory_algorithms/SA)
-    * [Tabu search](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/3_Trajectory_algorithms/TS)
-4. Population-based Optimization Techniques
-    * [Genetic algorithms](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/4_EC_algorithms)
-    * [Particle swarm optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/5_PSO)
-    * [Ant colony optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/6_ACO)
-5. Machine Learning Methods
-    * Unsupervised learning
-    * Supervised learning
-    * Reinforcement learning
+1. 🧑‍💻 **Introduction**
+    - 🔄 [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Python_refresher)
+    - ⚙️ [Introduction to Optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Intro_optimization)
+
+2. 🗺️ **Graph Search Algorithms**
+    - 🕵️ [Blind Search](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/2_Graph_search/Blind_search)
+    - 🔍 [Informed Search Algorithms](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/2_Graph_search/Informed_search)
+
+3. 📉 **Trajectory-based Optimization Techniques**
+    - ❄️ [Simulated Annealing](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/3_Trajectory_algorithms/SA)
+    - 🚫 [Tabu Search](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/3_Trajectory_algorithms/TS)
+
+4. 🧬 **Population-based Optimization Techniques**
+    - 🧪 [Genetic Algorithms](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/4_EC_algorithms)
+    - 🦟 [Particle Swarm Optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/5_PSO)
+    - 🐜 [Ant Colony Optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/6_ACO)
+
+5. 🤖 **Machine Learning Methods**
+    - 🧩 Unsupervised Learning  
+    - 🎯 Supervised Learning  
+    - 🕹️ Reinforcement Learning
 
 ## 📖 Textbook
 
