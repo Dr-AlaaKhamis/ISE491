@@ -35,6 +35,14 @@ Operations Research (OR), also known as decision or management science, focuses 
     - 🎯 Supervised Learning  
     - 🕹️ Reinforcement Learning
 
+
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Dr-AlaaKhamis/ISE491.git
+
+
 ## 📖 Textbook
 
 Alaa Khamis. [Optimization Algorithms: AI Techniques for Design, Planning, and Control Problems](https://www.manning.com/books/optimization-algorithms). Manning Publication, ISBN 9781633438835, 2024.
