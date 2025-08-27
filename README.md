@@ -41,7 +41,7 @@ Operations Research (OR), also known as decision or management science, focuses 
 
 ```bash
 git clone https://github.com/Dr-AlaaKhamis/ISE491.git
-
+```
 
 ## 📖 Textbook
 
