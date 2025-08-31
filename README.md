@@ -14,7 +14,8 @@ Operations Research (OR), also known as decision or management science, focuses 
 ## 📚 Course Topics
 
 1. 🧑‍💻 **Introduction**
-    - 🔄 [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Python_refresher)
+    - 🐍 [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Python_refresher)
+    - 🗺️ [Geospatial Data](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Geospatial_data)
     - ⚙️ [Introduction to Optimization](https://github.com/Dr-AlaaKhamis/ISE491/tree/main/1_Introduction/Intro_optimization)
 
 2. 🗺️ **Graph Search Algorithms**
